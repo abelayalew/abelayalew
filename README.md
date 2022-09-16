@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: abelayalew81@gmail.com
 
-![](https://komarev.com/ghpvc/?username=abelayalew&color=green)
+<!--- ![](https://komarev.com/ghpvc/?username=abelayalew&color=green) --->
 
 
 ### Languages
