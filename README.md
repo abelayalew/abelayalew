@@ -1,29 +1,27 @@
-### Hi there 👋
-I'm Abel, passionate about creating efficient software solutions.
-    - Backend Developer
-    - DevOps Engineer 
-    - Kubernetes Administrator (Developer) 
+### Hi there 👋 I'm Abel
 
-- 🔭 I’m currently working on enhancing my Kubernetes skills and building scalable backend systems.
+**Backend Developer • DevOps Engineer • Kubernetes and Cloud Native Associate (KCNA)**
 
-- 🌱 I’m learning Kubernetes and preparing for the Certified Kubernetes Administrator (CKA) exam.
-  
-- 👯 I’m looking to collaborate on projects involving cloud-native applications and infrastructure automation.
-  
-- 💬 Ask me about Kubernetes, Django, GraphQL, Docker, and anything related to cloud technologies.
-  
-- 📫 How to reach me: abelayalew81@gmail.com
-  
+Passionate about building scalable, efficient, cloud-native software solutions.
 
-- Checkout My Django Graphql CRUD generator: https://github.com/abelayalew/graphi
+- 🔭 Currently architecting robust backend systems and diving deeper into production-grade Kubernetes & cloud-native environments
+- 🌱 Leveling up in Kubernetes administration (eyeing CKA next) and modern DevOps practices
+- 👯 Open to collaborating on cloud-native projects, infrastructure automation, Django/GraphQL APIs, or Kubernetes tooling
+- 💬 Ask me about: **Kubernetes & Cloud Native (KCNA certified)**, **Django**, **GraphQL**, **Docker**, **FastAPI**, **Node.js/NestJS**, CI/CD, or cloud platforms
+- 📫 Reach me: **abelayalew81@gmail.com** (or connect on [LinkedIn](https://www.linkedin.com/in/abelayalew/))
 
-<!--- ![](https://komarev.com/ghpvc/?username=abelayalew&color=green) --->
+### Tech Stack & Skills
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/KCNA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCNA Certified" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div>
 
-### Languages and Skills
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-ea2845?&logo=nestjs&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?&logo=kubernetes&logoColor=white)
-
+<br/>
